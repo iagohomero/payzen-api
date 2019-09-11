@@ -1,0 +1,16 @@
+{
+    "name": "iagohomero/payzen-api",
+    "authors": [
+        {
+            "name": "Iago Homero",
+            "email": "iagohomero@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PayZen\\": "src/PayZen/"
+        }
+    }
+}
